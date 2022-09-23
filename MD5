@@ -1,0 +1,8 @@
+7e31e4fe4474bcd2adeff81ba0bff7e8 *DESCRIPTION
+d1ba5e3700f7e78c1f7082541dfd4521 *NAMESPACE
+4783e39a00286dfa3962fa5dea654676 *R/funs.R
+08eaef14abfd71c8cd88496a647542d3 *data/example.data.RData
+0854664724e8572a56bdd432e5122ca0 *man/example.data.Rd
+1d01ccf5c1d64f2a899c7ef117dae603 *man/gen.bootstrap.weights.Rd
+111c9772710d28006c3910004f8a7857 *man/pte.estimate.multiple.Rd
+c5ad8d3a727b1078e14c15a86baf020d *man/resam.Rd
